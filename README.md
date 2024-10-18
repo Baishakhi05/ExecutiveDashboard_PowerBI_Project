@@ -1,6 +1,4 @@
-
-
-# PWC_PowerBI_Project
+# ExecutiveDashboard_PowerBI_Project
 **Overview** - 
 The project consists of assisting AdventurWorks, a fictional global manufacturing company that produces cycling equipment and accessories. It aims to demonstrate data analysis and visualization skills through a real-world business scenario using Power BI. The focus is on providing clear, actionable insights to help stakeholders make data-driven decisions. 
 The activites in the project aim to create a practical, dynamic dashboard for the management for - 
